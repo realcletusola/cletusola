@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cletusola
 - 👀 I’m interested in ...Software Development, IT Management, Cloud, CyberSecurity.
-- 🌱 I’m currently learning ... Necessary skills needed for my personal and professional growth. (Preparing for Azure Certification)
+- 🌱 I’m currently learning ... Necessary skills needed for my personal and professional growth.
 - 💞️ I’m looking to collaborate on ... All projects I can contribute to.
 - 📫 How to reach me ... Please check my profile.
 
