@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cletusola
-- 👀 I’m interested in ...  Software Development, System and Network Security, Project Management.
-- 🌱 I’m currently learning ... Necessary skills needed for my personal and professional growth.
+- 👀 I’m interested in ...  Project Management, Software Engineering, AI.
+- 🌱 I’m currently learning ... Mobile app development. 
 - 💞️ I’m looking to collaborate on ... All projects I can contribute to.
 - 📫 How to reach me ... Please check my profile.
 
