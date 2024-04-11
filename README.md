@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cletusola
 - 👀 I’m interested in ...  Project Management, Software Engineering, AI.
-- 🌱 I’m currently learning ... Mobile app development. 
-- 💞️ I’m looking to collaborate on ... All projects I can contribute to.
+- 🌱 I’m currently learning ... A lot.
+- 💞️ I’m looking to collaborate on ... Any project my skills will be valuable. 
 - 📫 How to reach me ... Please check my profile.
 
 <!---
